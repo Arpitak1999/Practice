@@ -1,0 +1,24 @@
+div {
+    height: 200px;
+    width: 600px;
+    border-width: 5px;
+    /* border-style: solid; */
+    border: solid  black; 
+
+    border-left:dashed darkblue;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+h1 {
+    border: 2px solid forestgreen;
+    border-top-right-radius: 50px ;
+    /* 10px top bottom 20 px left right */
+    padding: 10px 20px;
+}
+button{
+    border:2px solid black;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: yellowgreen;
+}

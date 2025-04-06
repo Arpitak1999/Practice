@@ -1,4 +1,26 @@
 h1{
-    color: red;
-    background-color: black;
+    text-align: center;
+    font-weight: 800;
+    text-decoration:wavy  red underline;
+    letter-spacing: 6px;
+}
+h2{
+    text-align: left;
+font-weight: 400;
+
+text-decoration: dashed  green underline;
+
+}
+p{
+    text-align: right;
+    font-weight: lighter;
+    text-decoration:dotted blue overline;
+    line-height: 2.5;
+    font-size: 20px;
+}
+b{
+  text-decoration: double overline;  
+}
+a{
+    text-decoration: double underline;
 }
